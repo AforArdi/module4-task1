@@ -1,0 +1,36 @@
+footer p {
+    text-align: center;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.form-row {
+    display: grid;
+    width: 50%;
+}
+
+#btn-submit {
+    border: 1px solid #000;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 8px;
+}
+#btn-submit:hover {
+    background-color: #9e7a7a;
+    cursor: pointer;
+}
+#search-image {
+    width: 200px;
+    height: 40px;
+}
+#btn-search {
+    width: 100px;
+    height: 40px;
+}
+#panda-kick {
+    width: 300px;
+    height: auto;
+}
